@@ -1,5 +1,7 @@
 # awesome-DDIA
 
+中文：`README.zh-CN.md`
+
 Personal knowledge base for data-intensive application development (DDIA) with a focus on Data Engineering.
 
 ## Start Here
