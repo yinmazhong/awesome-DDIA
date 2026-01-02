@@ -62,3 +62,8 @@ Kafka 是事件流（event streaming）的骨干系统，用于数据接入、�
 ## 参考
 
 - Tags: #system #kafka #streaming
+
+
+https://time.geekbang.org/column/intro/100029201?utm_campaign=geektime_search&utm_content=geektime_search&utm_medium=geektime_search&utm_source=geektime_search&utm_term=geektime_search&tab=catalog
+
+
