@@ -146,6 +146,10 @@ head = newNode;
 
 
 
+
+
+
+
 ## 哈希表
 
 在Java中注意区分Map与HashMap, 因为Map是个接口定义，而HashMap是Map接口的实现之一。
