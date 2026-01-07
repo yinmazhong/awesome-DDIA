@@ -6,7 +6,7 @@ public class DoubleLinkedList<E>{
     private int size;
 
 
-    // 双链表节点
+    // 双链表节点hao
     private static class Node<E>{
         E val;
         Node<E> prev;

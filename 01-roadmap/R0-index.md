@@ -8,6 +8,7 @@ This roadmap is a learning + delivery path for building data-intensive systems (
 - Operating Systems（计算机操作系统）
 - Computer Networks（计算机网络）
 - Computer Architecture（计算机组成与原理）
+- AI coding（AI 编程）
 
 ## How to use（使用方式）
 
