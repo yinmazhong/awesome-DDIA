@@ -1,0 +1,11 @@
+# 在线广告核心概念
+
+此目录用于存放在线广告领域的核心概念卡片。
+
+## 子目录结构
+
+- `rtb/` - 实时竞价相关概念
+- `dsp-ssp/` - DSP/SSP/Ad Exchange相关概念
+- `attribution/` - 效果归因相关概念
+- `targeting/` - 广告定向相关概念
+- `optimization/` - 优化策略相关概念

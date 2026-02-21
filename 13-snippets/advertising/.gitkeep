@@ -1,0 +1,11 @@
+# 在线广告代码片段
+
+此目录用于存放在线广告相关的可复用代码、SQL、配置。
+
+## 子目录结构
+
+- `rtb/` - RTB相关代码（竞价逻辑、请求解析）
+- `attribution/` - 归因相关代码（转化追踪、归因计算）
+- `kafka/` - Kafka配置（广告事件流）
+- `flink/` - Flink作业（实时聚合）
+- `clickhouse/` - ClickHouse SQL（报表查询）

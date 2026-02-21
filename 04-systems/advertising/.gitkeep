@@ -1,0 +1,11 @@
+# 在线广告系统
+
+此目录用于存放在线广告相关系统的架构、配置、运维文档。
+
+## 子目录结构
+
+- `rtb-system/` - RTB系统（DSP/SSP）
+- `attribution-system/` - 归因系统
+- `data-pipeline/` - 数据流水线
+- `user-profile/` - 用户画像系统
+- `reporting/` - 报表系统
